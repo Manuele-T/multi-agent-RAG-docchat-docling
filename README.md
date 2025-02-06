@@ -126,7 +126,7 @@ We welcome contributions from **AI/NLP enthusiasts, researchers, and developers!
 
 ## 📜 License  
 
-This project is licensed under a Customed Creative License – check LICENSE for more details.
+This project is licensed under a Customed Non-Commercial License – check LICENSE for more details.
 
 ---
 
