@@ -1,13 +1,21 @@
 # **DocChat** 📝🤖  
 🚀 **AI-powered Multi-Agent RAG system for intelligent document querying with fact verification**  
 
-![DocChat Cover Image](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/zSuj0yrlvjcVkkbW4frkNA/docchat-landing-page.png)
+![DocChat Cover Image](/screenshots/02.jpg)
 
 ---
 
 ## **📌 Overview**  
 
-**DocChat** is a **multi-agent Retrieval-Augmented Generation (RAG) system** designed to help users query **long, complex documents** with **accurate, fact-verified answers**. Unlike traditional chatbots like **ChatGPT or DeepSeek**, which **hallucinate responses and struggle with structured data**, DocChat **retrieves, verifies, and corrects** answers before delivering them.  
+**DocChat** is a **multi-agent Retrieval-Augmented Generation (RAG) system** designed to help users query **long, complex documents** with **accurate, fact-verified answers**. Unlike traditional chatbots like **ChatGPT or DeepSeek**, which **hallucinate responses and struggle with structured data**, DocChat **retrieves, verifies, and corrects** answers before delivering them.
+
+I worked on this tool while following the "Agentic AI with LangChain and LangGraph" course on Coursera. **This repository is a fork of the original project created by Hailey Thao Quach.**
+
+You can find the original repository here: https://github.com/HaileyTQuach/docchat-docling
+
+![DocChat Cover Image](/screenshots/01.jpg)
+
+---
 
 💡 **Key Features:**  
 ✅ **Multi-Agent System** – A **Research Agent** generates answers, while a **Verification Agent** fact-checks responses.  
@@ -21,7 +29,7 @@
 
 ## **🎥 Demo Video**  
 
-📹 **[Click here to watch the DocChat demo](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/zyARt3f3bnm5T-6C4AE3mw/docchat-demo.mp4)**  
+📹 **[Click here to watch the DocChat demo](/screenshots/DocChat.mp4)**  
 *(Opens in a new tab)*
 
 ---
@@ -110,18 +118,6 @@ DocChat will be accessible at `http://0.0.0.0:7860`.
 
 5️⃣ **If the question is out of scope**, DocChat will inform you instead of fabricating an answer.  
 
-
-## 🤝 Contributing  
-
-Want to **improve DocChat**? Feel free to:  
-
-- **Fork the repo**  
-- **Create a new branch** (`feature-xyz`)  
-- **Commit your changes**  
-- **Submit a PR (Pull Request)**  
-
-We welcome contributions from **AI/NLP enthusiasts, researchers, and developers!** 🚀  
-
 ---
 
 ## 📜 License  
@@ -129,9 +125,3 @@ We welcome contributions from **AI/NLP enthusiasts, researchers, and developers!
 This project is licensed under a Customed Non-Commercial License – check LICENSE for more details.
 
 ---
-
-## 💬 Contact & Support  
-
-📧 **Email:** [hailey@haileyq.com]  
-
-
